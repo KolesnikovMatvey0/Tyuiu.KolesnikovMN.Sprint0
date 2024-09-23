@@ -6,6 +6,7 @@ namespace Tyuiu.KolesnikovMN.Sprint0.Task7.V0
     {
         static void Main(string[] args)
         {
+            Console.Title = "Спринт #0 | Выполнил: Колесников М. Н. | РППб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #0                                                               *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                             *");
